@@ -28,9 +28,3 @@ The premise is relatively simply, but offered me a good chance to learn Unity's 
 - Add [Unity](https://store.unity.com/front-page?check_logged_in=1#plans-individual) to your machine
 
 - Add this project folder on Unity and run
-
-## Contact
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/corey-bond-74087a228/
