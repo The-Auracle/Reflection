@@ -1,0 +1,661 @@
+fileFormatVersion: 2
+guid: b22d75c0d6e91944c98038791b51fc69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3434213316205682986
+    second: Exit Wormhole Animation_0
+  - first:
+      213: -7136350991367749984
+    second: Exit Wormhole Animation_1
+  - first:
+      213: 953914063863733300
+    second: Exit Wormhole Animation_2
+  - first:
+      213: 2895836104708823391
+    second: Exit Wormhole Animation_3
+  - first:
+      213: -2991777854828264510
+    second: Exit Wormhole Animation_4
+  - first:
+      213: -3390954171548988578
+    second: Exit Wormhole Animation_5
+  - first:
+      213: -8910862901011405980
+    second: Exit Wormhole Animation_6
+  - first:
+      213: -3365258731754302619
+    second: Exit Wormhole Animation_7
+  - first:
+      213: -1285475547889107837
+    second: Exit Wormhole Animation_8
+  - first:
+      213: 6395162500395036332
+    second: Exit Wormhole Animation_9
+  - first:
+      213: -4016203309676173206
+    second: Exit Wormhole Animation_10
+  - first:
+      213: 4882189931941006648
+    second: Exit Wormhole Animation_11
+  - first:
+      213: 1900051127418175074
+    second: Exit Wormhole Animation_12
+  - first:
+      213: 3405213107226516601
+    second: Exit Wormhole Animation_13
+  - first:
+      213: 64018865596633903
+    second: Exit Wormhole Animation_14
+  - first:
+      213: 6999166539282045637
+    second: Exit Wormhole Animation_15
+  - first:
+      213: -9095551957511507232
+    second: Exit Wormhole Animation_16
+  - first:
+      213: 8849528371973717928
+    second: Exit Wormhole Animation_17
+  - first:
+      213: -8650812853030614497
+    second: Exit Wormhole Animation_18
+  - first:
+      213: -2330408836914100762
+    second: Exit Wormhole Animation_19
+  - first:
+      213: -3919454455838776732
+    second: Exit Wormhole Animation_20
+  - first:
+      213: 4269643511657212
+    second: Exit Wormhole Animation_21
+  - first:
+      213: -3278513345168921304
+    second: Exit Wormhole Animation_22
+  - first:
+      213: 2257886797856437049
+    second: Exit Wormhole Animation_23
+  - first:
+      213: -2998330711106466637
+    second: Exit Wormhole Animation_24
+  - first:
+      213: -2384351313758751156
+    second: Exit Wormhole Animation_25
+  - first:
+      213: 7970132497783445910
+    second: Exit Wormhole Animation_26
+  - first:
+      213: 4210852215487173236
+    second: Exit Wormhole Animation_27
+  - first:
+      213: 2892261645872871376
+    second: Exit Wormhole Animation_28
+  - first:
+      213: 1440024323927801032
+    second: Exit Wormhole Animation_29
+  - first:
+      213: 8825456439049770976
+    second: Exit Wormhole Animation_30
+  - first:
+      213: -8098999102922932942
+    second: Exit Wormhole Animation_31
+  - first:
+      213: 7805707718184252060
+    second: Exit Wormhole Animation_32
+  - first:
+      213: -2509980291451200939
+    second: Exit Wormhole Animation_33
+  - first:
+      213: -4017635806224394411
+    second: Exit Wormhole Animation_34
+  - first:
+      213: -8953978799853128471
+    second: Exit Wormhole Animation_35
+  - first:
+      213: -8500066108227032629
+    second: Exit Wormhole Animation_36
+  - first:
+      213: 7344699359926068619
+    second: Exit Wormhole Animation_37
+  - first:
+      213: 8725670366782498451
+    second: Exit Wormhole Animation_38
+  - first:
+      213: 6077934898536836113
+    second: Exit Wormhole Animation_39
+  - first:
+      213: 2524735566164209182
+    second: Exit Wormhole Animation_40
+  - first:
+      213: -2744256124692768750
+    second: Exit Wormhole Animation_41
+  - first:
+      213: -7438582685831805307
+    second: Exit Wormhole Animation_42
+  - first:
+      213: 6743640237273537864
+    second: Exit Wormhole Animation_43
+  - first:
+      213: -1841539915230548046
+    second: Exit Wormhole Animation_44
+  - first:
+      213: 8391177870077476843
+    second: Exit Wormhole Animation_45
+  - first:
+      213: 2442573513164099392
+    second: Exit Wormhole Animation_46
+  - first:
+      213: -7685748108699261330
+    second: Exit Wormhole Animation_47
+  - first:
+      213: -3525504611003545019
+    second: Exit Wormhole Animation_48
+  - first:
+      213: -3838646650913663822
+    second: Exit Wormhole Animation_49
+  - first:
+      213: -2346868145134178086
+    second: Exit Wormhole Animation_50
+  - first:
+      213: -3012730219070710527
+    second: Exit Wormhole Animation_51
+  - first:
+      213: 6686378736282274984
+    second: Exit Wormhole Animation_52
+  - first:
+      213: 986681369904726456
+    second: Exit Wormhole Animation_53
+  - first:
+      213: -4806384319168327915
+    second: Exit Wormhole Animation_54
+  - first:
+      213: 2674387177215628159
+    second: Exit Wormhole Animation_55
+  - first:
+      213: -1681006901937178147
+    second: Exit Wormhole Animation_56
+  - first:
+      213: 7836932166204324380
+    second: Exit Wormhole Animation_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a212b5bd0d6c8af20800000000000000
+      internalID: 3434213316205682986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeb407559696fc90800000000000000
+      internalID: -7136350991367749984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cd8da79cbfc3d00800000000000000
+      internalID: 953914063863733300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f599bec2893103820800000000000000
+      internalID: 2895836104708823391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3c41464e11b76d0800000000000000
+      internalID: -2991777854828264510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b8133a529e0f0d0800000000000000
+      internalID: -3390954171548988578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463220f3761465480800000000000000
+      internalID: -8910862901011405980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563d08c63033c41d0800000000000000
+      internalID: -3365258731754302619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c7e98ccc2192ee0800000000000000
+      internalID: -1285475547889107837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caee1fc396e20c850800000000000000
+      internalID: 6395162500395036332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68e00d5e549348c0800000000000000
+      internalID: -4016203309676173206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d055b40e501c340800000000000000
+      internalID: 4882189931941006648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e37d8fe665e5a10800000000000000
+      internalID: 1900051127418175074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c9db8874fb14f20800000000000000
+      internalID: 3405213107226516601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f239fcea1d073e000800000000000000
+      internalID: 64018865596633903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Wormhole Animation_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cad4b162e8022160800000000000000
+      internalID: 6999166539282045637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 72ca16d5265156d45b2ce867e3100a52
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Exit Wormhole Animation_0: 3434213316205682986
+      Exit Wormhole Animation_1: -7136350991367749984
+      Exit Wormhole Animation_10: -4016203309676173206
+      Exit Wormhole Animation_11: 4882189931941006648
+      Exit Wormhole Animation_12: 1900051127418175074
+      Exit Wormhole Animation_13: 3405213107226516601
+      Exit Wormhole Animation_14: 64018865596633903
+      Exit Wormhole Animation_15: 6999166539282045637
+      Exit Wormhole Animation_2: 953914063863733300
+      Exit Wormhole Animation_3: 2895836104708823391
+      Exit Wormhole Animation_4: -2991777854828264510
+      Exit Wormhole Animation_5: -3390954171548988578
+      Exit Wormhole Animation_6: -8910862901011405980
+      Exit Wormhole Animation_7: -3365258731754302619
+      Exit Wormhole Animation_8: -1285475547889107837
+      Exit Wormhole Animation_9: 6395162500395036332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
